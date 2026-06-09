@@ -65,12 +65,12 @@ rta_project/
 |   `-- spark.py                          # Time-window analysis
 |
 `-- data/
-    |-- base/                    # Base data
+    |-- base/                             # Base data
     |-- products.json
     |-- customers.json
     |-- historical_transactions.json
     |-- association_rules.json
-    `-- debug/                   # Local event copies
+    `-- debug/                            # Local event copies
 ```
 
 ## Event flow
