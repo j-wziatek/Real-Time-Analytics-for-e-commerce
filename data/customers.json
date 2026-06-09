@@ -1,0 +1,1502 @@
+[
+    {
+        "customer_id": 1,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Comforto",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.52,
+        "price_sensitivity": 0.6,
+        "brand_affinity": 0.57,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 2,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.48,
+        "price_sensitivity": 0.57,
+        "brand_affinity": 0.51,
+        "abandon_probability": 0.26
+    },
+    {
+        "customer_id": 3,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.51,
+        "price_sensitivity": 0.5,
+        "brand_affinity": 0.35,
+        "abandon_probability": 0.29
+    },
+    {
+        "customer_id": 4,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "UrbanHome",
+            "beauty": "PureGlow",
+            "grocery": "Naturio",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.48,
+        "price_sensitivity": 0.64,
+        "brand_affinity": 0.52,
+        "abandon_probability": 0.23
+    },
+    {
+        "customer_id": 5,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.47,
+        "price_sensitivity": 0.54,
+        "brand_affinity": 0.16,
+        "abandon_probability": 0.57
+    },
+    {
+        "customer_id": 6,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.38,
+        "price_sensitivity": 0.59,
+        "brand_affinity": 0.41,
+        "abandon_probability": 0.21
+    },
+    {
+        "customer_id": 7,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.15,
+        "price_sensitivity": 0.83,
+        "brand_affinity": 0.18,
+        "abandon_probability": 0.5
+    },
+    {
+        "customer_id": 8,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "CasaLine",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.55,
+        "price_sensitivity": 0.64,
+        "brand_affinity": 0.42,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 9,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Comforto",
+            "beauty": "Belleza",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.65,
+        "price_sensitivity": 0.46,
+        "brand_affinity": 0.83,
+        "abandon_probability": 0.12
+    },
+    {
+        "customer_id": 10,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Comforto",
+            "beauty": "VelvetSkin",
+            "grocery": "Foodly",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.88,
+        "price_sensitivity": 0.07,
+        "brand_affinity": 0.8,
+        "abandon_probability": 0.13
+    },
+    {
+        "customer_id": 11,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.12,
+        "price_sensitivity": 0.88,
+        "brand_affinity": 0.22,
+        "abandon_probability": 0.37
+    },
+    {
+        "customer_id": 12,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "PureGlow",
+            "grocery": "GreenTaste",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.53,
+        "price_sensitivity": 0.5,
+        "brand_affinity": 0.39,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 13,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "Belleza",
+            "grocery": "GreenTaste",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.17,
+        "price_sensitivity": 0.86,
+        "brand_affinity": 0.23,
+        "abandon_probability": 0.4
+    },
+    {
+        "customer_id": 14,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Domio",
+            "beauty": "VelvetSkin",
+            "grocery": "FreshFarm",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.06,
+        "price_sensitivity": 0.8,
+        "brand_affinity": 0.29,
+        "abandon_probability": 0.47
+    },
+    {
+        "customer_id": 15,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "CasaLine",
+            "beauty": "PureGlow",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.99,
+        "price_sensitivity": 0.03,
+        "brand_affinity": 0.65,
+        "abandon_probability": 0.06
+    },
+    {
+        "customer_id": 16,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "GreenTaste",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.85,
+        "price_sensitivity": 0.26,
+        "brand_affinity": 0.63,
+        "abandon_probability": 0.08
+    },
+    {
+        "customer_id": 17,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.57,
+        "price_sensitivity": 0.54,
+        "brand_affinity": 0.37,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 18,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "CasaLine",
+            "beauty": "VelvetSkin",
+            "grocery": "DailyBite",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.01,
+        "price_sensitivity": 0.93,
+        "brand_affinity": 0.15,
+        "abandon_probability": 0.48
+    },
+    {
+        "customer_id": 19,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "Belleza",
+            "grocery": "Naturio",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.39,
+        "price_sensitivity": 0.25,
+        "brand_affinity": 0.99,
+        "abandon_probability": 0.19
+    },
+    {
+        "customer_id": 20,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "UrbanHome",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.5,
+        "price_sensitivity": 0.51,
+        "brand_affinity": 0.42,
+        "abandon_probability": 0.28
+    },
+    {
+        "customer_id": 21,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "HomeNest",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.05,
+        "price_sensitivity": 0.84,
+        "brand_affinity": 0.19,
+        "abandon_probability": 0.36
+    },
+    {
+        "customer_id": 22,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "HomeNest",
+            "beauty": "LumaCare",
+            "grocery": "GreenTaste",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.32,
+        "price_sensitivity": 0.7,
+        "brand_affinity": 0.55,
+        "abandon_probability": 0.3
+    },
+    {
+        "customer_id": 23,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.39,
+        "price_sensitivity": 0.36,
+        "brand_affinity": 0.81,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 24,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "UrbanHome",
+            "beauty": "Skinova",
+            "grocery": "Foodly",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.4,
+        "price_sensitivity": 0.59,
+        "brand_affinity": 0.16,
+        "abandon_probability": 0.63
+    },
+    {
+        "customer_id": 25,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.12,
+        "price_sensitivity": 0.9,
+        "brand_affinity": 0.27,
+        "abandon_probability": 0.29
+    },
+    {
+        "customer_id": 26,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "CasaLine",
+            "beauty": "PureGlow",
+            "grocery": "GreenTaste",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.4,
+        "price_sensitivity": 0.49,
+        "brand_affinity": 0.14,
+        "abandon_probability": 0.86
+    },
+    {
+        "customer_id": 27,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.13,
+        "price_sensitivity": 0.91,
+        "brand_affinity": 0.16,
+        "abandon_probability": 0.32
+    },
+    {
+        "customer_id": 28,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "CasaLine",
+            "beauty": "Skinova",
+            "grocery": "Foodly",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.5,
+        "price_sensitivity": 0.49,
+        "brand_affinity": 0.39,
+        "abandon_probability": 0.26
+    },
+    {
+        "customer_id": 29,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "VelvetSkin",
+            "grocery": "FreshFarm",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.11,
+        "price_sensitivity": 0.9,
+        "brand_affinity": 0.13,
+        "abandon_probability": 0.34
+    },
+    {
+        "customer_id": 30,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "Skinova",
+            "grocery": "DailyBite",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.17,
+        "price_sensitivity": 0.94,
+        "brand_affinity": 0.22,
+        "abandon_probability": 0.5
+    },
+    {
+        "customer_id": 31,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.38,
+        "price_sensitivity": 0.67,
+        "brand_affinity": 0.52,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 32,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "Belleza",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.45,
+        "price_sensitivity": 0.67,
+        "brand_affinity": 0.55,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 33,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "PureGlow",
+            "grocery": "Naturio",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.49,
+        "price_sensitivity": 0.48,
+        "brand_affinity": 0.52,
+        "abandon_probability": 0.23
+    },
+    {
+        "customer_id": 34,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "HomeNest",
+            "beauty": "PureGlow",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.31,
+        "price_sensitivity": 0.51,
+        "brand_affinity": 0.47,
+        "abandon_probability": 0.21
+    },
+    {
+        "customer_id": 35,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "Skinova",
+            "grocery": "DailyBite",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.13,
+        "price_sensitivity": 0.87,
+        "brand_affinity": 0.21,
+        "abandon_probability": 0.47
+    },
+    {
+        "customer_id": 36,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.21,
+        "price_sensitivity": 0.69,
+        "brand_affinity": 0.2,
+        "abandon_probability": 0.88
+    },
+    {
+        "customer_id": 37,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.97,
+        "price_sensitivity": 0.26,
+        "brand_affinity": 0.57,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 38,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "CasaLine",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.42,
+        "price_sensitivity": 0.48,
+        "brand_affinity": 0.32,
+        "abandon_probability": 0.27
+    },
+    {
+        "customer_id": 39,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "UrbanHome",
+            "beauty": "VelvetSkin",
+            "grocery": "Naturio",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.33,
+        "price_sensitivity": 0.69,
+        "brand_affinity": 0.35,
+        "abandon_probability": 0.29
+    },
+    {
+        "customer_id": 40,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.43,
+        "price_sensitivity": 0.7,
+        "brand_affinity": 0.33,
+        "abandon_probability": 0.28
+    },
+    {
+        "customer_id": 41,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "UrbanHome",
+            "beauty": "PureGlow",
+            "grocery": "GreenTaste",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.14,
+        "price_sensitivity": 0.99,
+        "brand_affinity": 0.25,
+        "abandon_probability": 0.3
+    },
+    {
+        "customer_id": 42,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.45,
+        "price_sensitivity": 0.6,
+        "brand_affinity": 0.4,
+        "abandon_probability": 0.25
+    },
+    {
+        "customer_id": 43,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "UrbanHome",
+            "beauty": "LumaCare",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.47,
+        "price_sensitivity": 0.52,
+        "brand_affinity": 0.55,
+        "abandon_probability": 0.2
+    },
+    {
+        "customer_id": 44,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.09,
+        "price_sensitivity": 0.84,
+        "brand_affinity": 0.19,
+        "abandon_probability": 0.48
+    },
+    {
+        "customer_id": 45,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "HomeNest",
+            "beauty": "Skinova",
+            "grocery": "GreenTaste",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.87,
+        "price_sensitivity": 0.25,
+        "brand_affinity": 0.73,
+        "abandon_probability": 0.15
+    },
+    {
+        "customer_id": 46,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "PureGlow",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.2,
+        "price_sensitivity": 0.92,
+        "brand_affinity": 0.25,
+        "abandon_probability": 0.36
+    },
+    {
+        "customer_id": 47,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.4,
+        "price_sensitivity": 0.46,
+        "brand_affinity": 0.8,
+        "abandon_probability": 0.21
+    },
+    {
+        "customer_id": 48,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "UrbanHome",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.89,
+        "price_sensitivity": 0.17,
+        "brand_affinity": 0.78,
+        "abandon_probability": 0.07
+    },
+    {
+        "customer_id": 49,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "VelvetSkin",
+            "grocery": "GreenTaste",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.19,
+        "price_sensitivity": 0.98,
+        "brand_affinity": 0.22,
+        "abandon_probability": 0.43
+    },
+    {
+        "customer_id": 50,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "UrbanHome",
+            "beauty": "Belleza",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.38,
+        "price_sensitivity": 0.47,
+        "brand_affinity": 0.49,
+        "abandon_probability": 0.26
+    },
+    {
+        "customer_id": 51,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "LumaCare",
+            "grocery": "FreshFarm",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.37,
+        "price_sensitivity": 0.5,
+        "brand_affinity": 0.57,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 52,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "CasaLine",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.08,
+        "price_sensitivity": 0.91,
+        "brand_affinity": 0.18,
+        "abandon_probability": 0.3
+    },
+    {
+        "customer_id": 53,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.3,
+        "price_sensitivity": 0.51,
+        "brand_affinity": 0.53,
+        "abandon_probability": 0.28
+    },
+    {
+        "customer_id": 54,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "VelvetSkin",
+            "grocery": "GreenTaste",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.35,
+        "price_sensitivity": 0.51,
+        "brand_affinity": 0.25,
+        "abandon_probability": 0.69
+    },
+    {
+        "customer_id": 55,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.46,
+        "price_sensitivity": 0.67,
+        "brand_affinity": 0.48,
+        "abandon_probability": 0.25
+    },
+    {
+        "customer_id": 56,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "DailyBite",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.05,
+        "price_sensitivity": 0.87,
+        "brand_affinity": 0.19,
+        "abandon_probability": 0.33
+    },
+    {
+        "customer_id": 57,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "UrbanHome",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.31,
+        "price_sensitivity": 0.42,
+        "brand_affinity": 1.0,
+        "abandon_probability": 0.15
+    },
+    {
+        "customer_id": 58,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "DailyBite",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.49,
+        "price_sensitivity": 0.47,
+        "brand_affinity": 0.44,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 59,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Comforto",
+            "beauty": "Skinova",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.54,
+        "price_sensitivity": 0.5,
+        "brand_affinity": 0.82,
+        "abandon_probability": 0.22
+    },
+    {
+        "customer_id": 60,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "PureGlow",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.4,
+        "price_sensitivity": 0.78,
+        "brand_affinity": 0.22,
+        "abandon_probability": 0.8
+    },
+    {
+        "customer_id": 61,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "HomeNest",
+            "beauty": "Skinova",
+            "grocery": "GreenTaste",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.16,
+        "price_sensitivity": 0.91,
+        "brand_affinity": 0.11,
+        "abandon_probability": 0.38
+    },
+    {
+        "customer_id": 62,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.55,
+        "price_sensitivity": 0.43,
+        "brand_affinity": 0.59,
+        "abandon_probability": 0.25
+    },
+    {
+        "customer_id": 63,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "UrbanHome",
+            "beauty": "Belleza",
+            "grocery": "GreenTaste",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.92,
+        "price_sensitivity": 0.28,
+        "brand_affinity": 0.73,
+        "abandon_probability": 0.12
+    },
+    {
+        "customer_id": 64,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Comforto",
+            "beauty": "Skinova",
+            "grocery": "DailyBite",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.86,
+        "price_sensitivity": 0.14,
+        "brand_affinity": 0.73,
+        "abandon_probability": 0.14
+    },
+    {
+        "customer_id": 65,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.45,
+        "price_sensitivity": 0.51,
+        "brand_affinity": 0.38,
+        "abandon_probability": 0.19
+    },
+    {
+        "customer_id": 66,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "PureGlow",
+            "grocery": "GreenTaste",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.33,
+        "price_sensitivity": 0.62,
+        "brand_affinity": 0.45,
+        "abandon_probability": 0.26
+    },
+    {
+        "customer_id": 67,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "UrbanHome",
+            "beauty": "PureGlow",
+            "grocery": "FreshFarm",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.37,
+        "price_sensitivity": 0.61,
+        "brand_affinity": 0.39,
+        "abandon_probability": 0.24
+    },
+    {
+        "customer_id": 68,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Comforto",
+            "beauty": "LumaCare",
+            "grocery": "GreenTaste",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.41,
+        "price_sensitivity": 0.54,
+        "brand_affinity": 0.39,
+        "abandon_probability": 0.18
+    },
+    {
+        "customer_id": 69,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "DailyBite",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.84,
+        "price_sensitivity": 0.15,
+        "brand_affinity": 0.72,
+        "abandon_probability": 0.2
+    },
+    {
+        "customer_id": 70,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "Naturio",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.41,
+        "price_sensitivity": 0.49,
+        "brand_affinity": 0.51,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 71,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "DailyBite",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.02,
+        "price_sensitivity": 0.8,
+        "brand_affinity": 0.16,
+        "abandon_probability": 0.37
+    },
+    {
+        "customer_id": 72,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Comforto",
+            "beauty": "LumaCare",
+            "grocery": "FreshFarm",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.42,
+        "price_sensitivity": 0.42,
+        "brand_affinity": 0.49,
+        "abandon_probability": 0.16
+    },
+    {
+        "customer_id": 73,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Comforto",
+            "beauty": "PureGlow",
+            "grocery": "DailyBite",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.11,
+        "price_sensitivity": 0.88,
+        "brand_affinity": 0.22,
+        "abandon_probability": 0.4
+    },
+    {
+        "customer_id": 74,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "UrbanHome",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 1.0,
+        "price_sensitivity": 0.09,
+        "brand_affinity": 0.69,
+        "abandon_probability": 0.14
+    },
+    {
+        "customer_id": 75,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.85,
+        "price_sensitivity": 0.17,
+        "brand_affinity": 0.55,
+        "abandon_probability": 0.11
+    },
+    {
+        "customer_id": 76,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Comforto",
+            "beauty": "PureGlow",
+            "grocery": "DailyBite",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.51,
+        "price_sensitivity": 0.61,
+        "brand_affinity": 0.44,
+        "abandon_probability": 0.25
+    },
+    {
+        "customer_id": 77,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "FreshFarm",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.39,
+        "price_sensitivity": 0.26,
+        "brand_affinity": 0.85,
+        "abandon_probability": 0.12
+    },
+    {
+        "customer_id": 78,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "VelvetSkin",
+            "grocery": "Naturio",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.02,
+        "price_sensitivity": 0.94,
+        "brand_affinity": 0.24,
+        "abandon_probability": 0.49
+    },
+    {
+        "customer_id": 79,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "UrbanHome",
+            "beauty": "PureGlow",
+            "grocery": "GreenTaste",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.57,
+        "price_sensitivity": 0.62,
+        "brand_affinity": 0.48,
+        "abandon_probability": 0.15
+    },
+    {
+        "customer_id": 80,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "Domio",
+            "beauty": "PureGlow",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.01,
+        "price_sensitivity": 0.95,
+        "brand_affinity": 0.19,
+        "abandon_probability": 0.41
+    },
+    {
+        "customer_id": 81,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Domio",
+            "beauty": "LumaCare",
+            "grocery": "Foodly",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.49,
+        "price_sensitivity": 0.36,
+        "brand_affinity": 0.86,
+        "abandon_probability": 0.12
+    },
+    {
+        "customer_id": 82,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "UrbanHome",
+            "beauty": "Skinova",
+            "grocery": "Foodly",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.01,
+        "price_sensitivity": 0.82,
+        "brand_affinity": 0.15,
+        "abandon_probability": 0.28
+    },
+    {
+        "customer_id": 83,
+        "segment": "premium",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "Foodly",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.81,
+        "price_sensitivity": 0.16,
+        "brand_affinity": 0.69,
+        "abandon_probability": 0.12
+    },
+    {
+        "customer_id": 84,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "CasaLine",
+            "beauty": "Skinova",
+            "grocery": "GreenTaste",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.58,
+        "price_sensitivity": 0.53,
+        "brand_affinity": 0.51,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 85,
+        "segment": "browser",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "CasaLine",
+            "beauty": "Belleza",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.2,
+        "price_sensitivity": 0.56,
+        "brand_affinity": 0.17,
+        "abandon_probability": 0.84
+    },
+    {
+        "customer_id": 86,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "CasaLine",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.14,
+        "price_sensitivity": 0.88,
+        "brand_affinity": 0.2,
+        "abandon_probability": 0.37
+    },
+    {
+        "customer_id": 87,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "UrbanHome",
+            "beauty": "Belleza",
+            "grocery": "GreenTaste",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.52,
+        "price_sensitivity": 0.44,
+        "brand_affinity": 0.32,
+        "abandon_probability": 0.27
+    },
+    {
+        "customer_id": 88,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "FreshFarm",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.59,
+        "price_sensitivity": 0.53,
+        "brand_affinity": 0.92,
+        "abandon_probability": 0.2
+    },
+    {
+        "customer_id": 89,
+        "segment": "brand_loyal",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.52,
+        "price_sensitivity": 0.42,
+        "brand_affinity": 0.89,
+        "abandon_probability": 0.15
+    },
+    {
+        "customer_id": 90,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Domio",
+            "beauty": "LumaCare",
+            "grocery": "DailyBite",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.01,
+        "price_sensitivity": 0.95,
+        "brand_affinity": 0.24,
+        "abandon_probability": 0.45
+    },
+    {
+        "customer_id": 91,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "UrbanHome",
+            "beauty": "PureGlow",
+            "grocery": "DailyBite",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.59,
+        "price_sensitivity": 0.5,
+        "brand_affinity": 0.33,
+        "abandon_probability": 0.28
+    },
+    {
+        "customer_id": 92,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "HomeNest",
+            "beauty": "Belleza",
+            "grocery": "Foodly",
+            "sport": "ActivePro"
+        },
+        "premium_affinity": 0.01,
+        "price_sensitivity": 0.96,
+        "brand_affinity": 0.15,
+        "abandon_probability": 0.41
+    },
+    {
+        "customer_id": 93,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "TechNova",
+            "home": "Comforto",
+            "beauty": "VelvetSkin",
+            "grocery": "Foodly",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.49,
+        "price_sensitivity": 0.67,
+        "brand_affinity": 0.45,
+        "abandon_probability": 0.23
+    },
+    {
+        "customer_id": 94,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "Comforto",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "Runix"
+        },
+        "premium_affinity": 0.59,
+        "price_sensitivity": 0.63,
+        "brand_affinity": 0.51,
+        "abandon_probability": 0.17
+    },
+    {
+        "customer_id": 95,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "HomeNest",
+            "beauty": "PureGlow",
+            "grocery": "Naturio",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.06,
+        "price_sensitivity": 0.87,
+        "brand_affinity": 0.13,
+        "abandon_probability": 0.38
+    },
+    {
+        "customer_id": 96,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "ElectroMax",
+            "home": "CasaLine",
+            "beauty": "Belleza",
+            "grocery": "FreshFarm",
+            "sport": "PowerMove"
+        },
+        "premium_affinity": 0.56,
+        "price_sensitivity": 0.59,
+        "brand_affinity": 0.37,
+        "abandon_probability": 0.29
+    },
+    {
+        "customer_id": 97,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Comforto",
+            "beauty": "LumaCare",
+            "grocery": "Naturio",
+            "sport": "FitCore"
+        },
+        "premium_affinity": 0.18,
+        "price_sensitivity": 0.89,
+        "brand_affinity": 0.16,
+        "abandon_probability": 0.39
+    },
+    {
+        "customer_id": 98,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "SmartEdge",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "Foodly",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.09,
+        "price_sensitivity": 0.86,
+        "brand_affinity": 0.3,
+        "abandon_probability": 0.46
+    },
+    {
+        "customer_id": 99,
+        "segment": "budget",
+        "preferred_brands": {
+            "electronics": "Voltix",
+            "home": "Domio",
+            "beauty": "Skinova",
+            "grocery": "GreenTaste",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.2,
+        "price_sensitivity": 0.86,
+        "brand_affinity": 0.3,
+        "abandon_probability": 0.41
+    },
+    {
+        "customer_id": 100,
+        "segment": "regular",
+        "preferred_brands": {
+            "electronics": "Nexora",
+            "home": "HomeNest",
+            "beauty": "VelvetSkin",
+            "grocery": "Foodly",
+            "sport": "Sportiva"
+        },
+        "premium_affinity": 0.53,
+        "price_sensitivity": 0.47,
+        "brand_affinity": 0.54,
+        "abandon_probability": 0.18
+    }
+]

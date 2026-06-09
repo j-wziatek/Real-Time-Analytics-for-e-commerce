@@ -1,0 +1,192 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "electronics",
+        "product_types": [
+            {
+                "product_type": "Smartphone",
+                "base_price": 2500
+            },
+            {
+                "product_type": "Laptop",
+                "base_price": 4500
+            },
+            {
+                "product_type": "Tablet",
+                "base_price": 1800
+            },
+            {
+                "product_type": "Smartwatch",
+                "base_price": 900
+            },
+            {
+                "product_type": "Headphones",
+                "base_price": 350
+            },
+            {
+                "product_type": "Monitor",
+                "base_price": 1200
+            },
+            {
+                "product_type": "Keyboard",
+                "base_price": 200
+            },
+            {
+                "product_type": "Wireless Mouse",
+                "base_price": 120
+            }
+        ]
+    },
+    {
+        "category_id": 2,
+        "category_name": "home",
+        "product_types": [
+            {
+                "product_type": "Vacuum Cleaner",
+                "base_price": 1200
+            },
+            {
+                "product_type": "Air Humidifier",
+                "base_price": 350
+            },
+            {
+                "product_type": "Coffee Machine",
+                "base_price": 900
+            },
+            {
+                "product_type": "Microwave",
+                "base_price": 700
+            },
+            {
+                "product_type": "Desk Lamp",
+                "base_price": 120
+            },
+            {
+                "product_type": "Office Chair",
+                "base_price": 800
+            },
+            {
+                "product_type": "Wall Clock",
+                "base_price": 80
+            },
+            {
+                "product_type": "Storage Box",
+                "base_price": 50
+            }
+        ]
+    },
+    {
+        "category_id": 3,
+        "category_name": "beauty",
+        "product_types": [
+            {
+                "product_type": "Perfume",
+                "base_price": 300
+            },
+            {
+                "product_type": "Face Serum",
+                "base_price": 120
+            },
+            {
+                "product_type": "Face Cream",
+                "base_price": 80
+            },
+            {
+                "product_type": "Shampoo",
+                "base_price": 30
+            },
+            {
+                "product_type": "Conditioner",
+                "base_price": 30
+            },
+            {
+                "product_type": "Hair Mask",
+                "base_price": 45
+            },
+            {
+                "product_type": "Body Lotion",
+                "base_price": 35
+            },
+            {
+                "product_type": "Shower Gel",
+                "base_price": 20
+            }
+        ]
+    },
+    {
+        "category_id": 4,
+        "category_name": "grocery",
+        "product_types": [
+            {
+                "product_type": "Coffee Beans",
+                "base_price": 45
+            },
+            {
+                "product_type": "Tea",
+                "base_price": 20
+            },
+            {
+                "product_type": "Cereal",
+                "base_price": 18
+            },
+            {
+                "product_type": "Pasta",
+                "base_price": 8
+            },
+            {
+                "product_type": "Rice",
+                "base_price": 10
+            },
+            {
+                "product_type": "Olive Oil",
+                "base_price": 35
+            },
+            {
+                "product_type": "Cookies",
+                "base_price": 12
+            },
+            {
+                "product_type": "Chocolate",
+                "base_price": 10
+            }
+        ]
+    },
+    {
+        "category_id": 5,
+        "category_name": "sport",
+        "product_types": [
+            {
+                "product_type": "Running Shoes",
+                "base_price": 400
+            },
+            {
+                "product_type": "Fitness Band",
+                "base_price": 250
+            },
+            {
+                "product_type": "Dumbbells",
+                "base_price": 180
+            },
+            {
+                "product_type": "Yoga Mat",
+                "base_price": 90
+            },
+            {
+                "product_type": "Sports Backpack",
+                "base_price": 220
+            },
+            {
+                "product_type": "Water Bottle",
+                "base_price": 40
+            },
+            {
+                "product_type": "Jump Rope",
+                "base_price": 30
+            },
+            {
+                "product_type": "Protein Shaker",
+                "base_price": 35
+            }
+        ]
+    }
+]

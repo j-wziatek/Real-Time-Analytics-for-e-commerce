@@ -1,0 +1,37 @@
+{
+    "electronics": {
+        "TechNova": 1.2,
+        "ElectroMax": 1.1,
+        "SmartEdge": 1.0,
+        "Voltix": 0.9,
+        "Nexora": 0.8
+    },
+    "home": {
+        "HomeNest": 1.2,
+        "CasaLine": 1.1,
+        "Comforto": 1.0,
+        "UrbanHome": 0.9,
+        "Domio": 0.8
+    },
+    "beauty": {
+        "PureGlow": 1.2,
+        "Belleza": 1.1,
+        "Skinova": 1.0,
+        "LumaCare": 0.9,
+        "VelvetSkin": 0.8
+    },
+    "grocery": {
+        "FreshFarm": 1.2,
+        "DailyBite": 1.1,
+        "Naturio": 1.0,
+        "Foodly": 0.9,
+        "GreenTaste": 0.8
+    },
+    "sport": {
+        "FitCore": 1.2,
+        "ActivePro": 1.1,
+        "Sportiva": 1.0,
+        "Runix": 0.9,
+        "PowerMove": 0.8
+    }
+}

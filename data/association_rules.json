@@ -1,0 +1,343 @@
+[
+    {
+        "antecedents":[
+            "Conditioner",
+            "Shampoo"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.2226222222,
+        "confidence":0.8951836297,
+        "lift":1.970805447
+    },
+    {
+        "antecedents":[
+            "Fitness Band",
+            "Running Shoes"
+        ],
+        "consequents":[
+            "Protein Shaker"
+        ],
+        "support":0.2065777778,
+        "confidence":0.8721268412,
+        "lift":1.952619924
+    },
+    {
+        "antecedents":[
+            "Keyboard",
+            "Laptop"
+        ],
+        "consequents":[
+            "Wireless Mouse"
+        ],
+        "support":0.2222666667,
+        "confidence":0.8652997664,
+        "lift":1.9267895239
+    },
+    {
+        "antecedents":[
+            "Chocolate",
+            "Coffee Beans"
+        ],
+        "consequents":[
+            "Cookies"
+        ],
+        "support":0.2034666667,
+        "confidence":0.8450392247,
+        "lift":1.9206406946
+    },
+    {
+        "antecedents":[
+            "Laptop",
+            "Wireless Mouse"
+        ],
+        "consequents":[
+            "Keyboard"
+        ],
+        "support":0.2222666667,
+        "confidence":0.8209126724,
+        "lift":1.8732794248
+    },
+    {
+        "antecedents":[
+            "Hair Mask",
+            "Shampoo"
+        ],
+        "consequents":[
+            "Conditioner"
+        ],
+        "support":0.2226222222,
+        "confidence":0.8109770906,
+        "lift":1.8988484872
+    },
+    {
+        "antecedents":[
+            "Coffee Beans",
+            "Cookies"
+        ],
+        "consequents":[
+            "Chocolate"
+        ],
+        "support":0.2034666667,
+        "confidence":0.7856529947,
+        "lift":1.8729807565
+    },
+    {
+        "antecedents":[
+            "Protein Shaker",
+            "Running Shoes"
+        ],
+        "consequents":[
+            "Fitness Band"
+        ],
+        "support":0.2065777778,
+        "confidence":0.7736995422,
+        "lift":1.8590601987
+    },
+    {
+        "antecedents":[
+            "Shampoo"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.2745111111,
+        "confidence":0.7684125404,
+        "lift":1.6917105831
+    },
+    {
+        "antecedents":[
+            "Laptop"
+        ],
+        "consequents":[
+            "Wireless Mouse"
+        ],
+        "support":0.2707555556,
+        "confidence":0.7566761893,
+        "lift":1.6849140738
+    },
+    {
+        "antecedents":[
+            "Running Shoes"
+        ],
+        "consequents":[
+            "Protein Shaker"
+        ],
+        "support":0.267,
+        "confidence":0.7472014925,
+        "lift":1.6729223924
+    },
+    {
+        "antecedents":[
+            "Conditioner",
+            "Perfume"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.1605333333,
+        "confidence":0.7438220758,
+        "lift":1.6375730631
+    },
+    {
+        "antecedents":[
+            "Body Lotion",
+            "Conditioner"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.1604222222,
+        "confidence":0.742924771,
+        "lift":1.6355975879
+    },
+    {
+        "antecedents":[
+            "Conditioner",
+            "Shower Gel"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.1589111111,
+        "confidence":0.7423440257,
+        "lift":1.6343190391
+    },
+    {
+        "antecedents":[
+            "Conditioner",
+            "Face Serum"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.1597555556,
+        "confidence":0.7417457697,
+        "lift":1.6330019392
+    },
+    {
+        "antecedents":[
+            "Smartphone",
+            "Wireless Mouse"
+        ],
+        "consequents":[
+            "Power Bank"
+        ],
+        "support":0.1691555556,
+        "confidence":0.7416212003,
+        "lift":2.7973976542
+    },
+    {
+        "antecedents":[
+            "Keyboard",
+            "Smartphone"
+        ],
+        "consequents":[
+            "Power Bank"
+        ],
+        "support":0.1632444444,
+        "confidence":0.7415707652,
+        "lift":2.7972074127
+    },
+    {
+        "antecedents":[
+            "Smartphone"
+        ],
+        "consequents":[
+            "Power Bank"
+        ],
+        "support":0.2651111111,
+        "confidence":0.7360108582,
+        "lift":2.7762354248
+    },
+    {
+        "antecedents":[
+            "Conditioner",
+            "Face Cream"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.1571111111,
+        "confidence":0.7335546794,
+        "lift":1.6149687169
+    },
+    {
+        "antecedents":[
+            "Conditioner"
+        ],
+        "consequents":[
+            "Hair Mask"
+        ],
+        "support":0.3113333333,
+        "confidence":0.7289661273,
+        "lift":1.6048667185
+    },
+    {
+        "antecedents":[
+            "Coffee Beans"
+        ],
+        "consequents":[
+            "Cookies"
+        ],
+        "support":0.2589777778,
+        "confidence":0.727738229,
+        "lift":1.6540340576
+    },
+    {
+        "antecedents":[
+            "Keyboard",
+            "Monitor"
+        ],
+        "consequents":[
+            "Wireless Mouse"
+        ],
+        "support":0.1576222222,
+        "confidence":0.72510734,
+        "lift":1.6146187491
+    },
+    {
+        "antecedents":[
+            "Fitness Band",
+            "Water Bottle"
+        ],
+        "consequents":[
+            "Protein Shaker"
+        ],
+        "support":0.1520222222,
+        "confidence":0.7249894023,
+        "lift":1.6231913579
+    },
+    {
+        "antecedents":[
+            "Dumbbells",
+            "Fitness Band"
+        ],
+        "consequents":[
+            "Protein Shaker"
+        ],
+        "support":0.1508222222,
+        "confidence":0.7237922577,
+        "lift":1.62051105
+    },
+    {
+        "antecedents":[
+            "Office Chair"
+        ],
+        "consequents":[
+            "Desk Lamp"
+        ],
+        "support":0.2579777778,
+        "confidence":0.7200719514,
+        "lift":1.6524676328
+    },
+    {
+        "antecedents":[
+            "Conditioner",
+            "Hair Mask"
+        ],
+        "consequents":[
+            "Shampoo"
+        ],
+        "support":0.2226222222,
+        "confidence":0.7150606709,
+        "lift":2.0016005345
+    },
+    {
+        "antecedents":[
+            "Keyboard",
+            "Wireless Mouse"
+        ],
+        "consequents":[
+            "Laptop"
+        ],
+        "support":0.2222666667,
+        "confidence":0.7133585336,
+        "lift":1.9936116019
+    },
+    {
+        "antecedents":[
+            "Fitness Band",
+            "Protein Shaker"
+        ],
+        "consequents":[
+            "Running Shoes"
+        ],
+        "support":0.2065777778,
+        "confidence":0.7006859124,
+        "lift":1.9608747549
+    },
+    {
+        "antecedents":[
+            "Chocolate",
+            "Cookies"
+        ],
+        "consequents":[
+            "Coffee Beans"
+        ],
+        "support":0.2034666667,
+        "confidence":0.6945308352,
+        "lift":1.9516602712
+    }
+]
